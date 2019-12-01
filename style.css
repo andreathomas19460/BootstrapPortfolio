@@ -4,6 +4,8 @@ body{
     background-image: url("assets/topography.png");
 }
 
+
+
 /*Directly from Bootstrap*/
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) { ... }
@@ -20,26 +22,21 @@ body{
 .navbar-expand{-sm|-md|-lg|-xl} 
 
 .navbar-brand{
-    color: white;
     background-color: #4aaaa5;
+    color: white;
+    
 }
 
-.col-md-8 {
-    background-color: white;
-}
-
-.col-md-6 {
+.col-md-8{
   background-color: white;
 }
 
-.row {
-  background-color: white;
-}
 h1{
-    color: white;
-    background-color: #4aaaa5;
+    background-color: white;
+    color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 p{
@@ -48,8 +45,10 @@ p{
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  .Andrea{
-    width: 50%;
+  .image-fluid{
+    max-width: 40%;
+    height: auto;
+    padding-bottom: 20px;
   }
   
   /*sticky footer*/
