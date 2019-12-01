@@ -47,8 +47,16 @@ p{
   }
 
 
+  .carousel-caption{
+    justify-content: center;
+    background-color: white;
+    position: absolute;
+    width: 350px;
+  }
+
   .image-fluid{
-    max-width: 40%;
+    position: relative;
+    max-width: 100%;
     height: auto;
     padding-bottom: 10px;
   }
