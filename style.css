@@ -23,7 +23,7 @@ body{
 
 .navbar-brand{
     background-color: #4aaaa5;
-    color: white;
+    color: white
     
 }
 
@@ -46,9 +46,9 @@ p{
   }
 
   .image-fluid{
-    max-width: 40%;
+    max-width: 100%;
     height: auto;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
   
   /*sticky footer*/
