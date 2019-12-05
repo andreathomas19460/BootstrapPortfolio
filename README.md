@@ -32,5 +32,5 @@ Andrea Thomas
 
 ## License 
 
-This project is licensed and 
+This project is licensed under the GNU General Public License. See the gnuLICENSE.md for details. 
 
