@@ -49,13 +49,6 @@ h1{
     font-weight: bold;
   }
 
-p{
-    margin-left:18px;
-    margin-right: 18px;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 30px;
-  }
-
 .image-fluid{
     max-width: 40%;
     height: auto;
