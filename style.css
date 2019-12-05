@@ -1,4 +1,6 @@
-
+.navbar-static-top .navbar-collapse.in {
+  overflow-y: visible; /* Bootstrap default is "auto" */
+}
 
 body{
     background-image: url("assets/topography.png");
