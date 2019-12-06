@@ -2,6 +2,7 @@
 
 body{
   /* can you see this? */
+  color: blue;
     background-image: url("Assets/topography.png");
 }
 
