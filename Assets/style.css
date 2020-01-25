@@ -1,32 +1,13 @@
 
 
 body{
-    background-image: url("Assets/topography.png");
+    background-image: url("light-grey-terrazzo.png");
 }
-
-
-
-/*Directly from Bootstrap*/
-/* Extra small devices (portrait phones, less than 576px) */
-/* @media (max-width: 575.98px) { ... } */
-
-/* Small devices (landscape phones, less than 768px) */
-/* @media (max-width: 76798px) { ... } */
-
-/* // Medium devices (tablets, less than 992px) */
-/* @media (max-width: 991.98px) { ... } */
-
-/* // Large devices (desktops, less than 1200px) */
-/* @media (max-width: 1199.98px) { ... } */
-
-/* .navbar-expand{-sm|-md|-lg|-xl}  */
 
 .navbar-brand{
     background-color: #4aaaa5;
-    color: white
-    
+    color: white 
 }
-
 
 .col-md-8{
   background-color: white;
