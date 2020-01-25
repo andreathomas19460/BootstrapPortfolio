@@ -21,7 +21,7 @@ This portfolio site is formatted to be responsive to multiple viewports.
 
 ## Screenshot
 
-<img src = 'Assets/screenshot.png' width = "200">
+<img src = 'Assets/screenshot.png'>
 
 ## Components
 
